@@ -1,0 +1,31 @@
+{
+    "showInTrayMenu": true,
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "hotkey": {
+        "hotKey": "s",
+        "modifiers": [
+            "<ctrl>",
+            "<shift>"
+        ]
+    },
+    "usageCount": 122,
+    "modes": [
+        3
+    ],
+    "type": "script",
+    "description": "Dict_Save",
+    "omitTrigger": false,
+    "store": {},
+    "abbreviation": {
+        "ignoreCase": false,
+        "backspace": true,
+        "immediate": false,
+        "abbreviations": [],
+        "wordChars": "[\\w]",
+        "triggerInside": false
+    },
+    "prompt": false
+}

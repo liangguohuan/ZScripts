@@ -1,0 +1,33 @@
+{
+    "showInTrayMenu": false,
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "hotkey": {
+        "hotKey": "h",
+        "modifiers": [
+            "<ctrl>",
+            "<shift>"
+        ]
+    },
+    "usageCount": 36,
+    "modes": [
+        1
+    ],
+    "type": "script",
+    "description": "Ipython_Help",
+    "omitTrigger": false,
+    "store": {},
+    "abbreviation": {
+        "ignoreCase": false,
+        "backspace": true,
+        "immediate": true,
+        "abbreviations": [
+            "ihelp"
+        ],
+        "wordChars": "[\\w]",
+        "triggerInside": false
+    },
+    "prompt": false
+}

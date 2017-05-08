@@ -1,0 +1,30 @@
+{
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "modes": [
+        3
+    ],
+    "description": "tmux-ctrl-7",
+    "omitTrigger": false,
+    "store": {},
+    "type": "script",
+    "showInTrayMenu": false,
+    "prompt": false,
+    "usageCount": 0,
+    "abbreviation": {
+        "triggerInside": false,
+        "backspace": true,
+        "wordChars": "[\\w]",
+        "abbreviations": [],
+        "immediate": false,
+        "ignoreCase": false
+    },
+    "hotkey": {
+        "hotKey": "7",
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }
+}

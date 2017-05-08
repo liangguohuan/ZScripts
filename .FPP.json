@@ -1,0 +1,30 @@
+{
+    "filter": {
+        "regex": "gnome-terminal-server.Gnome-terminal",
+        "isRecursive": false
+    },
+    "modes": [
+        1
+    ],
+    "description": "FPP",
+    "omitTrigger": false,
+    "store": {},
+    "type": "script",
+    "showInTrayMenu": false,
+    "prompt": false,
+    "usageCount": 57,
+    "abbreviation": {
+        "triggerInside": false,
+        "backspace": true,
+        "wordChars": "[\\w]",
+        "abbreviations": [
+            "fppe"
+        ],
+        "immediate": true,
+        "ignoreCase": false
+    },
+    "hotkey": {
+        "hotKey": null,
+        "modifiers": []
+    }
+}
