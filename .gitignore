@@ -87,6 +87,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-# ignore autokey auto gen hide file
-.*
