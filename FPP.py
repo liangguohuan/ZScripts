@@ -2,4 +2,4 @@
 
 keyboard.send_key("<backspace>")
 keyboard.send_keys(" | fpp")
-keyboard.send_key("<enter>")
+keyboard.send_keys("<ctrl>+m")

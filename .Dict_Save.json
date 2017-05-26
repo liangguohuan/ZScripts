@@ -1,9 +1,14 @@
 {
-    "showInTrayMenu": true,
+    "usageCount": 122,
     "filter": {
-        "regex": null,
-        "isRecursive": false
+        "isRecursive": false,
+        "regex": null
     },
+    "prompt": false,
+    "description": "Dict_Save",
+    "modes": [
+        3
+    ],
     "hotkey": {
         "hotKey": "s",
         "modifiers": [
@@ -11,21 +16,16 @@
             "<shift>"
         ]
     },
-    "usageCount": 122,
-    "modes": [
-        3
-    ],
-    "type": "script",
-    "description": "Dict_Save",
     "omitTrigger": false,
     "store": {},
+    "showInTrayMenu": false,
+    "type": "script",
     "abbreviation": {
-        "ignoreCase": false,
         "backspace": true,
-        "immediate": false,
         "abbreviations": [],
-        "wordChars": "[\\w]",
-        "triggerInside": false
-    },
-    "prompt": false
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    }
 }

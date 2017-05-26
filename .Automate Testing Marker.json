@@ -2,29 +2,25 @@
     "prompt": false,
     "type": "script",
     "abbreviation": {
-        "immediate": true,
+        "immediate": false,
         "backspace": true,
-        "abbreviations": [
-            "fppe"
-        ],
+        "abbreviations": [],
         "ignoreCase": false,
         "wordChars": "[\\w]",
         "triggerInside": false
     },
-    "usageCount": 57,
+    "usageCount": 59,
     "store": {},
-    "modes": [
-        1
-    ],
+    "modes": [],
     "filter": {
-        "regex": "gnome-terminal-server.Gnome-terminal",
+        "regex": null,
         "isRecursive": false
     },
     "hotkey": {
         "hotKey": null,
         "modifiers": []
     },
-    "description": "FPP",
-    "showInTrayMenu": false,
+    "description": "Automate Testing Marker",
+    "showInTrayMenu": true,
     "omitTrigger": false
 }
